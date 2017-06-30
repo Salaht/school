@@ -1,0 +1,37 @@
+body {
+    background-image: url(gw2.jpg);
+    background-repeat: no-repeat;
+}
+h1 {
+    color: black;
+    margin-left: 5px;
+    font-family: "Lucida Console", Times, serif; 
+}
+
+button{
+	margin: 2px;
+	width: 30px;
+	height: 30px;
+	border-radius: 30%;
+	font-family: "Lucida Console", Times, serif;
+}
+
+.border {
+	background-color: black;
+	border: 5px solid;
+	max-width: 186px;
+	opacity: 0.85;
+	border-radius: 4%;
+}
+
+#resultaat {
+	width: 150px;
+	height: 50px;
+	
+	border:1.5px solid white;
+    color: white;
+    border-radius: 5%;
+}
+.row1{
+	padding-top: 5px;
+}

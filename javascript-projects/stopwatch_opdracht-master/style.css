@@ -1,0 +1,35 @@
+body{
+	background-image: url(gw2.jpg);
+    background-repeat: no-repeat;
+}
+
+button {
+	width: 60px;
+	height: 30px;
+	border-radius: 10%;
+	font-family: "Lucida Console", Times, serif;
+	margin-left: 10px;
+}
+
+.stopwatch h1 {
+    font-family: "Lucida Console", Times, serif;
+    padding-left: 30px; 
+
+}
+
+.border{
+	background-color: grey;
+	width: 250px;
+	height: 200px;
+	margin: auto;
+	border: 2px solid black;
+
+}
+
+#display p {
+	font-size: 30px;
+	padding-left: 50px;
+	font-family: "Lucida Console", Times, serif;
+	
+}
+
